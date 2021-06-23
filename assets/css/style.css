@@ -64,3 +64,10 @@ header {
   color: blue;
   border-bottom: 3px solid blue;
 }
+
+/* Site main */
+
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+}

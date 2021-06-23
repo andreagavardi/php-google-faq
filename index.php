@@ -50,7 +50,15 @@
                     </div>
                 </div>
             </div>
-            <div class="nav-bottom"></div>
+            <div class="nav-bottom">
+
+                <a href="#">Introduzione</a>
+                <a href="#">Norme sulla privacy</a>
+                <a href="#">Termini di servizio</a>
+                <a href="#">Tecnologie</a>
+                <a href="#" class="active">Domande frequenti</a>
+
+            </div>
         </div>
     </header>
 </body>

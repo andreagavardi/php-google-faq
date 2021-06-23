@@ -29,7 +29,7 @@ header {
   width: 80px;
 }
 .navbar .left-side span {
-  font-size: 1.5rem;
+  font-size: 22px;
   color: #656262;
   margin-left: 0.25rem;
 }
@@ -82,4 +82,8 @@ header {
   color: #3c4043;
   font-size: 14px;
   margin: 2rem 0;
+}
+p > a {
+  color: blue;
+  text-decoration: none;
 }

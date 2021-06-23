@@ -70,4 +70,16 @@ header {
 .container {
   max-width: 80%;
   margin: 0 auto;
+  padding: 6rem 1rem;
+}
+
+.container h2 {
+  color: #3c4043;
+  margin-top: 4rem;
+  font-weight: 500;
+}
+.container p {
+  color: #3c4043;
+  font-size: 14px;
+  margin: 2rem 0;
 }

@@ -79,9 +79,12 @@ header {
   font-weight: 500;
 }
 .container p {
-  color: #3c4043;
+  color: black;
   font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
   margin: 2rem 0;
+  font-family: "Roboto", sans-serif;
 }
 p > a {
   color: blue;
